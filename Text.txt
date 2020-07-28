@@ -1,0 +1,12 @@
+git init
+git remote add origin <link>
+git pull origin master
+
+
+single file
+git add <filename>
+
+git commit -m "message"
+
+multipe files
+ git add -A
