@@ -8,5 +8,11 @@ git add <filename>
 
 git commit -m "message"
 
-multipe files
- git add -A
+multipe files (adding to the index)
+ git add -A 
+
+git log
+
+
+branching
+git branch <branch_name>
