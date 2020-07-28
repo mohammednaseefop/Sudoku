@@ -1,1 +1,2 @@
 # Sudoku
+Deep learninig project
